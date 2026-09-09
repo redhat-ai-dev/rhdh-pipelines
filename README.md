@@ -1,5 +1,8 @@
 # AI-RHDH Standard Pipelines
 
+> [!WARNING]
+> This repository has been retired and will no longer be maintained. It has been moved to [redhat-developer/rhdh-ai-template-pipelines](https://github.com/redhat-developer/rhdh-ai-template-pipelines).
+
 The Pipelines are in standard [tekton](https://tekton.dev/docs/) format and
 they can be found in [./pac/pipelines](./pac/pipelines/), whereas the Tasks are located in [./pac/tasks](./pac/tasks/).
 
